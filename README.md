@@ -57,7 +57,7 @@ To build your own firmware you need a GNU/Linux, BSD or MacOSX system (case sens
      
      ```
      # MT7981
-     cp -f defconfig/mt7981-ax3000.config .config
+     cp -f defconfig/mt7981-ax3000-mtwifi-cfg.config .config
      
      # MT7986
      cp -f defconfig/mt7986-ax6000.config .config
